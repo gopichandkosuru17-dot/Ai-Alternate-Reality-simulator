@@ -1,0 +1,6 @@
+{
+  "name": "AI Alternate Reality Simulator",
+  "description": "Explore your alternate futures in an immersive, cinematic quantum simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
